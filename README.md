@@ -6,3 +6,6 @@ https://www.figma.com/file/V3JSCV86sCqGNuHJlzpT2C/Untitled?type=design&node-id=0
 
 Link do Design System no Figma:
 https://www.figma.com/file/dDGEfjVnXYEy9IFlhtgFhM/Untitled?type=design&t=TtFAEgT1vVNLI3GH-1
+
+Link do Protótipo Navegável:
+https://www.figma.com/file/ARKyW3uCLd5UVysWmi792H/Tornado-Store?type=design&node-id=0%3A1&t=zZDMtm1ltSU4csrN-1
